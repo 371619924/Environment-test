@@ -9,7 +9,7 @@
             "type": "cppdbg",
             "request": "launch",
             "program": "${workspaceFolder}/build/hello",
-            "args": ["fubar", "baz"],
+            "args": ["mhrma@ucdavis.edu", "baz"],
             "stopAtEntry": false,
             "cwd": "${fileDirname}",
             "environment": [],
